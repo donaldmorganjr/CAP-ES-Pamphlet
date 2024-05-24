@@ -312,6 +312,7 @@ You can look up if the person training you is an evaluator by pulling up their C
 You'll see the front and back of their 101 card. On the back of the card, if they have a diamond next to their qualification, they are a Skills Evaluator.
 
 Here is an example:
+
 ![Pasted image 20240420185807](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/b73de82b-82ba-4542-a305-c9001947f4f5)
 
 As you can see, this record shows a member is a skills evaluator for MSA. But they are a trainee for several other areas, and so the only thing they can approve for you here are tasks in the MSA task book.
