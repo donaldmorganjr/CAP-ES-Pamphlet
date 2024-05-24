@@ -184,8 +184,7 @@ Once there, click on the "Go to AXIS" button, which is our current e-learning pl
 
 Click on the Course Catalog tab, and under the drop-down selection choose "Emergency." There will be 5 courses for you to take there. Take them in the order they are presented.
 
-![[Pasted image 20240420175249.png]]
-
+![Pasted image 20240420175249](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/2094ef90-fce3-453a-a84a-eec87e7c629c)
 
 Some of the materials may feel like repetition of the courses you've taken from FEMA. That is because some of them were designed before the FEMA courses were fully implemented. Getting them all out of the way now is a good idea.
 
