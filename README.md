@@ -7,7 +7,7 @@ Some important notes about this document:
 1. Wherever possible, I will reference [Primary Source Documents](https://en.wikipedia.org/wiki/Primary_source) in order to allow individuals a place to go when someone identifies a potential conflicting document to the information in this one.
 	1. Acronyms will be defined before first use to minimize confusion.
 2. While the primary goal is qualification and activity in the Emergency Services Specialty Track, by simple virtue of pursuing this you will also be completing tasks that are duplicated in other Specialty Tracks such as Operations, Communications, Safety, and more.
-3. Pilots, before continuing further, should use the well written [Pilot Onboarding Pamphlet](https://www.gocivilairpatrol.com/media/cms/P_7012_409CE123DCDE2.pdf) as their Runbook, it is updated and well written for the task of getting you mission capable as fast as possible. Upon completing that reading and building a plan accordingly, this Runbook will still be useful for higher level qualifications at the mission base such as Air Operations Branch Director. Non-pilots can also benefit from a review of the documentation there. Part 1 is especially useful for all members learning to navigate our online [e-Services web portal](https://capnhq.gov/).
+3. Pilots, before continuing further, should use the well written [Pilot Onboarding Pamphlet](https://www.gocivilairpatrol.com/media/cms/P_7012_409CE123DCDE2.pdf) as their guide, it is updated and well written for the task of getting you mission capable as fast as possible. Upon completing that reading and building a plan accordingly, this pamphlet will still be useful for higher level qualifications at the mission base such as Air Operations Branch Director. Non-pilots can also benefit from a review of the documentation there. Part 1 is especially useful for all members learning to navigate our online [e-Services web portal](https://capnhq.gov/).
 
 For some quick explanatory items for new members: [National CAP Regulations](https://www.gocivilairpatrol.com/members/publications/indexes-regulations-and-manuals-1700) will be referred to as CAPRs for brevity. [National Pamphlets](https://www.gocivilairpatrol.com/members/publications/pamphlets-1702) will be referred to as CAPPs. 
 
@@ -82,7 +82,7 @@ There are two domains of qualifications to concern yourself with.
 	1. Mission Staff Assistant, Mission Radio Operator, Ground Team Member, etc.
 
 
-The former primarily will affect your ability to promote within the organization and help to determine your suitability for leadership roles. The latter will affect your ability to deploy on missions. Many highly qualified members never complete the former while having served on hundreds of missions. That said, it is my belief that one should complete the rating regardless of choosing to promote as this is one of the few badges that cadets can earn as well as senior members in the organization, and completing it provides you the framework to help THEM complete it. As such this Runbook will cover achieving both items through the Technician Rating for the Specialty Track and the basic Specialty Qualifications.
+The former primarily will affect your ability to promote within the organization and help to determine your suitability for leadership roles. The latter will affect your ability to deploy on missions. Many highly qualified members never complete the former while having served on hundreds of missions. That said, it is my belief that one should complete the rating regardless of choosing to promote as this is one of the few badges that cadets can earn as well as senior members in the organization, and completing it provides you the framework to help THEM complete it. As such this pamphlet will cover achieving both items through the Technician Rating for the Specialty Track and the basic Specialty Qualifications.
 
 ---
 
@@ -399,7 +399,7 @@ If you've been following along, you've accomplished 6 things on this checklist a
 
 One last thing: Your completion of your first qualification rating (not specialty track rating) also qualifies you to wear the [Emergency Services Patch](https://www.gocivilairpatrol.com/media/cms/R035_006_70213217D50CA.pdf). But, like other items here, you must process the request into e-Services to officially record this into your record. Go [here](https://capnhq.gov/CAP.OPSQuals.Web/Ratings/RatingsAwardsBadges.aspx) and put in your CAPID, and towards the bottom of the list, select "CAP Emergency Services Patch" and submit the request. That will go to your commander for approval.
 
-This concludes my basic runbook for getting you up and running as fast as possible in ES.
+This concludes my basic pamphlet for getting you up and running as fast as possible in ES.
 
 This is a rough draft that a friend of mine asked me to put together, so please report any errors, questions, comments, and concerns to donald.morgan@wawg.cap.gov, and if for some reason you cannot get a local mentor in Emergency Services, please reach out to me after conferring with your unit commander if they are ok with you using a virtual mentor.
 
