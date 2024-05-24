@@ -35,7 +35,9 @@ You may note that if you glanced at the [Pilot Onboarding Pamphlet](https://www.
 The other regulations you should pay attention to that aren't directly related to Emergency Services?
 
 [CAP REGULATION 1-2, PERSONALLY IDENTIFIABLE INFORMATION](https://www.gocivilairpatrol.com/media/cms/R001_002_15BAF8B12FA4B.pdf)
+
 [CAP REGULATION 1-3, DISCLOSURE OF CONFIDENTIAL INFORMATION BY VOLUNTEER MEMBERS](https://www.gocivilairpatrol.com/media/cms/R001_003_CE7FDA295EED7.pdf)
+
 [CAP REGULATION 1-4, CONFLICT OF INTEREST](https://www.gocivilairpatrol.com/media/cms/R001_004_4418C23B01F01.pdf)
 
 You might be able to guess the contents of the above just by their titles. I'll distill the importance of these for you right here:
@@ -204,7 +206,7 @@ You may have an amateur radio license and feel like you can use your personal ra
 
 With that in mind, use common sense and the tools you are issued along with the following communications training to set your path.
 
-Note: If you have a FCC issued General Radiotelephone Operator License, this will [qualify you for advancement to 1st LT](https://www.gocivilairpatrol.com/media/cms/R_355_D1A3C2A66AF7A.pdf) after completion of your Education and Training modules in Level 1 and Level 2 Part 1.
+Note: If you have a FCC issued General Radiotelephone Operator License (GROL) this will [qualify you for advancement to 1st LT](https://www.gocivilairpatrol.com/media/cms/R_355_D1A3C2A66AF7A.pdf) after completion of your Education and Training modules in Level 1 and Level 2 Part 1. The GROL will eventually be a requirement for the Communications Unit Leader (CUL, being rebranded as COML so you'll see both acronyms) so it is something to keep in mind if you are going down the Communications track as your primary goal.
 
 The first tier of communications training is called ICUT, or "Introductory Communications User Training." The NTIA requires that all members using radios meet that minimum level of training or be immediately supervised by a person meeting that minimum training.
 
