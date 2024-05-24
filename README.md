@@ -47,7 +47,7 @@ You might be able to guess the contents of the above just by their titles. I'll 
 3. Don't talk out of turn, especially to non-CAP members
 4. When you aren't sure what to do about a potential issue, TALK TO YOUR IMMEDIATE COMMANDER!
 	1. Note: When on a mission, your immediate commander is the person placed as your supervisor on the mission. That chain of command goes up to the mission Incident Commander (hereafter IC.) You are under their operational control, not your administratively assigned unit commander. (CAPR 60-3, 1-18, d. “All CAP personnel, regardless of unit or rank, will give the IC complete support and cooperation.”)
-		1. See also the CAP Pamphlet on Emergency Services, specifically on the definitions of Administrative Control (ADCON), Operational Control (OPCON), and Tactical Control (TACON.)
+		1. See also the [CAP Pamphlet on Emergency Services](https://www.gocivilairpatrol.com/media/cms/CAPP_703_5_Mar_18_693D84E455FEE.pdf), specifically on the definitions of Administrative Control (ADCON), Operational Control (OPCON), and Tactical Control (TACON.)
 
 To recap: Do the right thing at the right place at the right time, and document the same at the time you do it. Obey your officers. Report your concerns using your chain of command as defined by your current situation.
 
