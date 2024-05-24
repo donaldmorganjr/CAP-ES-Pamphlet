@@ -407,7 +407,9 @@ Before I let you go, I'll quote CAPR 60-3 2-1 Paragraph b once again with regard
 Other non-CAP resources you can take training from to further your education include:
 
 [Texas A&M Extension Institute's DHS/FEMA funded classes (online and resident)](https://teex.org/dhs-fema-funded/) 
+
 [Interagency Aviation Training](https://www.iat.gov/)
+
 [FEMA Continuity Excellence Series](https://www.fema.gov/emergency-managers/national-preparedness/continuity/excellence-series)
 
 And of course, every state has their own training calendar. If you can't find your state's training calendar, please reach out to your wing ES Director or email me for details.
