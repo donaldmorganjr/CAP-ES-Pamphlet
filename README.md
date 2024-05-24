@@ -273,20 +273,23 @@ Those of you with an ICS background or who paid attention during the FEMA classe
 
 Well, it turns out that this position IS in that training, it's just hiding. But the eventual ICS300 class you will take spells it out:
 
-![[Pasted image 20240420184049.png]]
+![Pasted image 20240420184049](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/5029faa6-1195-485a-a1cc-e7a81ac0158f)
+
 
 Perhaps from this you can immediately see how beneficial assistants on a mission base can be. The MSA is the very definition of "all other tasks assigned" when missions are starting up or closing down, rapidly setting up registration and staging areas, escorting people to different locations, taking notes for people, organizing logistics, and setting up the coffee maker.
 
 So what you'll want to do is request permission from your commander to begin MSA training. The easiest way to do this is in e-Services [here](https://capnhq.gov/CAP.OPSQuals.Web/EmergencyServices/SQTR.aspx).
 
 Type in your CAPID and hit enter. You'll see two dropdown menus next to each other. Choose MSA from the second dropdown menu:
-![[Pasted image 20240420184602.png]]
+![Pasted image 20240420184602](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/c34d88ad-73d8-462e-a5cb-508f9d1ee337)
+
 
 And you'll see a bunch of information underneath this populate.
 
 This is the CAP version of the Position Task Book you'll hear other agencies use. Ours are online with the exception of certain ones under active development.
 
-![[Pasted image 20240420185140.png]]
+![Pasted image 20240420185140](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/b15382c9-838d-4821-a0cd-b6b055aa3651)
+
 
 Congratulations! You know now how to fill out your task book online!
 
@@ -309,12 +312,14 @@ You can look up if the person training you is an evaluator by pulling up their C
 You'll see the front and back of their 101 card. On the back of the card, if they have a diamond next to their qualification, they are a Skills Evaluator.
 
 Here is an example:
-![[Pasted image 20240420185807.png|300]]
+![Pasted image 20240420185807](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/b73de82b-82ba-4542-a305-c9001947f4f5)
+
 As you can see, this record shows a member is a skills evaluator for MSA. But they are a trainee for several other areas, and so the only thing they can approve for you here are tasks in the MSA task book.
 
 Now let's go through the MSA tasks. If you printed the copy of your MSA task book, it will look like this:
 
-![[Pasted image 20240420190449.png]]
+![Pasted image 20240420190449](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/5aed6b28-15fb-4496-8742-34b76ff84b7b)
+
 Look at that. 15 tasks to do, and because you followed this guide, 7 of them are already done.
 
 Now you're probably asking yourself, "How do I learn the rest of these?"
@@ -384,7 +389,8 @@ Let's talk about that for a minute.
 
 I've put the required items into a spreadsheet instead of the checklist online to simplify tracking. It looks like this:
 
-![[Pasted image 20240420201509.png]]
+![Pasted image 20240420201509](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/d0de48fa-bdc3-4c26-8415-e6f5811e728b)
+
 
 If you've been following along, you've accomplished 6 things on this checklist already! With the exception of more training missions and time in service, everything else on here can be accomplished in a collaborative format with your current mentor. Upon all items being completed, your mentor will forward this to your commander for approval and you will be awarded the Emergency Services Badge, and the Technician Rating in Emergency Services.
 
