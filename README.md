@@ -401,7 +401,7 @@ One last thing: Your completion of your first qualification rating (not specialt
 
 This concludes my basic pamphlet for getting you up and running as fast as possible in ES.
 
-This is a rough draft that a friend of mine asked me to put together, so please report any errors, questions, comments, and concerns to donald.morgan@wawg.cap.gov, and if for some reason you cannot get a local mentor in Emergency Services, please reach out to me after conferring with your unit commander if they are ok with you using a virtual mentor.
+This is a rough draft that a friend of mine asked me to put together, so please report any errors, questions, comments, and concerns to my email or by opening an issue on this repository, and if for some reason you cannot get a local mentor in Emergency Services, please reach out to me after conferring with your unit commander if they are ok with you using a virtual mentor. My contact information is available by looking up my name in e-Services.
 
 Before I let you go, I'll quote CAPR 60-3 2-1 Paragraph b once again with regards to training:
 
