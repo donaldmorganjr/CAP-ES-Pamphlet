@@ -247,24 +247,43 @@ Note: Your local squadron/group/wing may have a different policy on the above pa
 Now let's talk about the first thing you should train for. There are many job types during a mission, and some are more important than others. A partial list of those jobs are:
 
 Airborne Photographer (AP) 
+
 Air Operations Branch Director (AOBD) 
+
 Community Emergency Response Team (CERT) 
+
 Communications Unit Leader (CUL) 
+
 Flight Line Marshaller (FLM) 
+
 Flight Line Supervisor (FLS) 
+
 Ground Branch Director (GBD) 
+
 Ground Team Member (GTM) – Any Level 
+
 Ground Team Leader 
+
 Incident Commander (IC) – Any Level 
+
 Mission Observer (MO) 
+
 Mission Radio Officer (MRO) 
+
 Mission Safety Officer (MSO)
+
 Mission Staff Assistant (MSA)
+
 Mission Scanner (MS) 
+
 Operations Section Chief (OSC) 
+
 Planning Section Chief (PSC) 
+
 Search and Rescue/Disaster Relief Mission Pilot (MP)
+
 Transport Mission Pilot (TMP) 
+
 Urban Direction Finding Team (UDF)
 
 Before you try to figure out where you will start, I'll make it simple for you.
