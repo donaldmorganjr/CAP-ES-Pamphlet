@@ -438,10 +438,10 @@ And of course, every state has their own training calendar. If you can't find yo
 
 Other important resources you can research to help see where CAP can fit in to your state or local area's emergency response plans include:
 
-Looking up your State Emergency Operations Plan
-Looking up your County or City plan (Sometimes referred to as a "Comprehensive Emergency Management Plan")
-Knowing which laws in your state are applicable to Emergency Services, volunteers, and non-profit organizations
-Identifying your local volunteer coordinator for your city and county.
-Joining your local [VOAD (Volunteer Organizations Active in Disaster)](https://en.wikipedia.org/wiki/VOAD) to meet other groups and coordinate with them before disaster strikes
-Identifying your [Local Emergency Planning Committee](https://www.epa.gov/epcra/local-emergency-planning-committees) to see where CAP can appropriately support your area.
-I also suggest signing up for the [FEMA Daily Operations Briefing](https://service.govdelivery.com/accounts/USDHSFEMA/subscriber/topics) to keep an eye on major events across the USA.
+- Looking up your State Emergency Operations Plan
+- Looking up your County or City plan (Sometimes referred to as a "Comprehensive Emergency Management Plan")
+- Knowing which laws in your state are applicable to Emergency Services, volunteers, and non-profit organizations
+- Identifying your local volunteer coordinator for your city and county.
+- Joining your local [VOAD (Volunteer Organizations Active in Disaster)](https://en.wikipedia.org/wiki/VOAD) to meet other groups and coordinate with them before disaster strikes
+- Identifying your [Local Emergency Planning Committee](https://www.epa.gov/epcra/local-emergency-planning-committees) to see where CAP can appropriately support your area.
+- I also suggest signing up for the [FEMA Daily Operations Briefing](https://service.govdelivery.com/accounts/USDHSFEMA/subscriber/topics) to keep an eye on major events across the USA.
