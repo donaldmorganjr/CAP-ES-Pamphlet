@@ -88,7 +88,7 @@ The former primarily will affect your ability to promote within the organization
 
 And now, without further ado, let's dive into what you are probably actually here reading this document for: The checklists on how to become qualified as fast as possible while being as useful as possible on missions!
 
-The first thing to realize: Not all of the training you require is provided by CAP. In the aftermath of 9/11, the Homeland Security Act of 2002 required that ALL first responders, including volunteers, have a basic level of training that was the same across the entire nation. That training became known as the National Incident Management System (NIMS), and completing the appropriate NIMS training became known as being NIMS Compliant. This training is managed by the Federal Emergency Management Agency (FEMA.)
+The first thing to realize: Not all of the training you require is provided by CAP. In the aftermath of 9/11, the [Homeland Security Act of 2002](https://www.dhs.gov/sites/default/files/2023-11/03_0116_hr_5005_enr.pdf) required that ALL first responders, including volunteers, have a basic level of training that was the same across the entire nation. That training became known as the National Incident Management System (NIMS), and completing the appropriate NIMS training became known as being NIMS Compliant. This training is managed by the Federal Emergency Management Agency (FEMA.)
 
 This training is a combination of online and in-person training. The first bits of training we will worry about are online.
 
