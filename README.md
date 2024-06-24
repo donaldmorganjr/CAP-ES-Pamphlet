@@ -1,6 +1,6 @@
 # CAP-ES-Pamphlet
 
-This pamphlet is intended to function as a guidebook for aspiring Emergency Services Professionals in the Civil Air Patrol (CAP). There are many misconceptions that I've run across in my time at the squadron, group, and wing level that have led me to believe that a common document, though non-directive, may be useful in getting people rapidly onboarded, qualified, and active in the program. 
+This pamphlet is intended to function as a guidebook for aspiring Emergency Services (ES) professionals in the Civil Air Patrol (CAP). There are many misconceptions that I've run across in my time at the squadron, group, and wing level that have led me to believe that a common document, though non-directive, may be useful in getting people rapidly onboarded, qualified, and active in the program. 
 
 Some important notes about this document:
 
