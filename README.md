@@ -26,13 +26,13 @@ With the above in mind, let's dive right into the things you should care about b
 
 ==Above all else, use the following regulation as your guide!==
 
-**[CAP REGULATION 1-1, ETHICS POLICY](https://www.gocivilairpatrol.com/media/cms/R001_001_AACFE68A86CC5.pdf)**
+# **[CAP REGULATION 1-1, ETHICS POLICY](https://www.gocivilairpatrol.com/media/cms/R001_001_AACFE68A86CC5.pdf)**
 
 It's only 2 pages. Read it. Then read it again. It's the first regulation for a reason. If you aren't doing the right thing, the right way, at the right time, and you aren't documenting it so that your actions are unassailable by others at a later time, at some point you are going to have a problem. And if the problem is big enough, it's going to become more than just your problem. 
 
 You may note that if you glanced at the [Pilot Onboarding Pamphlet](https://www.gocivilairpatrol.com/media/cms/P_7012_409CE123DCDE2.pdf) I mentioned earlier, there is a section right at the front on Aircrew Professionalism. Such standards are just as important for the ground teams and mission base staff on an assignment. The Department of the Air Force recognizes the value of our service in two ways: It provides us authorization to operate as their Civilian Auxiliary, and in recognition of our service in the past, present, and future, it authorizes us to wear a distinctive Air Force Uniform and use Air Force equipment, real property, military radio frequencies, and more. Take that recognition and permission as serious as they do.
 
-The other regulations you should pay attention to that aren't directly related to Emergency Services?
+# The other regulations you should pay attention to that aren't directly related to Emergency Services?
 
 [CAP REGULATION 1-2, PERSONALLY IDENTIFIABLE INFORMATION](https://www.gocivilairpatrol.com/media/cms/R001_002_15BAF8B12FA4B.pdf)
 
@@ -74,7 +74,7 @@ And it is always better to have more training than less.
 
 Now with all of the above laid out, let's talk about Emergency Services Qualifications.
 
-There are two domains of qualifications to concern yourself with.
+# There are two domains of qualifications to concern yourself with.
 
 1. Specialty Track Ratings
 	1. None (Trainee), Technician, Senior, Master
@@ -86,7 +86,8 @@ The former primarily will affect your ability to promote within the organization
 
 ---
 
-And now, without further ado, let's dive into what you are probably actually here reading this document for: The checklists on how to become qualified as fast as possible while being as useful as possible on missions!
+And now, without further ado, let's dive into what you are probably actually here reading this document for: 
+# The checklists on how to become qualified as fast as possible while being as useful as possible on missions!
 
 The first thing to realize: Not all of the training you require is provided by CAP. In the aftermath of 9/11, the [Homeland Security Act of 2002](https://www.dhs.gov/sites/default/files/2023-11/03_0116_hr_5005_enr.pdf) required that ALL first responders, including volunteers, have a basic level of training that was the same across the entire nation. That training became known as the National Incident Management System (NIMS), and completing the appropriate NIMS training became known as being NIMS Compliant. This training is managed by the Federal Emergency Management Agency (FEMA.)
 
@@ -104,7 +105,7 @@ Next, apply for an account at https://login.gov as FEMA will be migrating to thi
 With this done, you can now [take the FEMA training](https://training.fema.gov/is/), take the FEMA tests, and receive your certificates.
 
 The Big Four classes to get out of the way are the NIMS (National Incident Management System) classes, sometimes called the ICS (Incident Command System) classes even though only two of them are actually about ICS:
-
+# NIMS COURSES
 | Course Code   | Course Title                                                                                                                                        | CEUs |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | IS-100.c<br>  | [Introduction to the Incident Command System, ICS 100](https://training.fema.gov/IS/courseOverview.aspx?code=IS-100.c&lang=en) - (6/25/2018)        | 0.2  |
@@ -118,7 +119,7 @@ Beyond these classes, the following are optional and provide either perspective 
 
 I suggest completing this block of classes first as they comprise the online group of classes known as the [FEMA Professional Development Series (PDS)](https://training.fema.gov/is/searchis.aspx?search=PDS). If you complete the above classes and these, you will have met nearly all the requirements for attending the [FEMA National Emergency Management Basic Academy.](https://training.fema.gov/programs/empp/basic/#prerequisites)
 
-The FEMA PDS classes are as follows:
+# The FEMA PDS classes are as follows:
 
 | Course Code | Course Title                                                                                           | CEUs |
 | ----------- | ------------------------------------------------------------------------------------------------------ | ---- |
@@ -154,6 +155,7 @@ With that said, let's now talk about the online training at [e-Services](https:/
 With that in mind, now that you have an active membership and account, please send the following email to your SQUADRON commander, adjusted for your name, their name, etc.:
 
 ---
+# Email Example
 
 Good morning Commander,
 
