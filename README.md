@@ -361,8 +361,11 @@ Now you're probably asking yourself, "How do I learn the rest of these?"
 All of the CAP tasks are defined in 3 books:
 
 [The Mission Base Staff Guide](https://nesa.cap.gov/media/cms/Mission_Base_Staff_Tasks_Guide_6C11E36F85477.pdf)
+
 [The Ground & Urban Direction Finding Team Tasks Guide](https://nesa.cap.gov/media/cms/GUDFTG_16F2489D24A32.pdf)
-	This is supplemented by the [Ground Team Member & Leader Reference Text](https://nesa.cap.gov/media/cms/GTRT_85670BD1C7D98.pdf)
+
+The above is supplemented by the [Ground Team Member & Leader Reference Text](https://nesa.cap.gov/media/cms/GTRT_85670BD1C7D98.pdf)
+ 
 [Aircrew & Flightline Tasks Guide](https://nesa.cap.gov/media/cms/ACFLTG__11_Apr_05_C1347D337C4C6_8CC8922C64C17.pdf)
 
 Since the MSA is a Mission Base job, We'll click on the Mission Base Staff Guide link. These are searchable PDFs, so hit CONTROL+F, type in the code for the first task to do (P-2006) and you'll get the description, the testing method, and the pass/fail conditions for evaluation.
