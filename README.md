@@ -184,7 +184,9 @@ Once that is done, it's time to take the training in e-Services.
 
 You can drop yourself right at the learning section of e-Services [here](https://capnhq.gov/CAP.LMS.Web/Default.aspx).
 
-CAP uses the Absorb LMS for new courses. The 4 major courses to take to get a running start in Emergency Services are:
+CAP uses the Absorb LMS for new courses. One important note, you must first sign in to e-Services before any of the class links here will work.
+
+The 4 major courses to take to get a running start in Emergency Services are:
 
 [CAPT 116 General Emergency Services](https://capnhq.myabsorb.com/#/online-courses/7f574e22-2a9b-43ee-b192-667d8dd62bc3)
 
