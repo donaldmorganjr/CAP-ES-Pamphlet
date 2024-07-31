@@ -184,11 +184,17 @@ Once that is done, it's time to take the training in e-Services.
 
 You can drop yourself right at the learning section of e-Services [here](https://capnhq.gov/CAP.LMS.Web/Default.aspx).
 
-Once there, click on the "Go to AXIS" button, which is our current e-learning platform. That may change in the future, in which case you'll choose whatever new button is there.
+CAP uses the Absorb LMS for new courses. The 4 major courses to take to get a running start in Emergency Services are:
 
-Click on the Course Catalog tab, and under the drop-down selection choose "Emergency." There will be 5 courses for you to take there. Take them in the order they are presented.
+[CAPT 116 General Emergency Services](https://capnhq.myabsorb.com/#/online-courses/7f574e22-2a9b-43ee-b192-667d8dd62bc3)
 
-![Pasted image 20240420175249](https://github.com/donaldmorganjr/CAP-ES-Pamphlet/assets/24913461/2094ef90-fce3-453a-a84a-eec87e7c629c)
+[CAPT 117 ES Continuing Education Part 1](https://capnhq.myabsorb.com/#/online-courses/251cc9c2-3670-4b04-9152-b69a0b5989a9)
+
+[CAPT 117 ES Continuing Education Part 2](https://capnhq.myabsorb.com/#/online-courses/cb49c305-d7a2-4371-8a6c-c6e20356cdd7)
+
+[CAPT 117 ES Continuing Education Part 3](https://capnhq.myabsorb.com/#/online-courses/31a8ccb8-37fa-4792-b12a-06a7bfa5ea32)
+
+
 
 Some of the materials may feel like repetition of the courses you've taken from FEMA. That is because some of them were designed before the FEMA courses were fully implemented. Getting them all out of the way now is a good idea.
 
@@ -211,6 +217,8 @@ With that in mind, use common sense and the tools you are issued along with the 
 Note: If you have a FCC issued General Radiotelephone Operator License (GROL) this will [qualify you for advancement to 1st LT](https://www.gocivilairpatrol.com/media/cms/R_355_D1A3C2A66AF7A.pdf) after completion of your Education and Training modules in Level 1 and Level 2 Part 1. The GROL will eventually be a requirement for the Communications Unit Leader (CUL, being rebranded as COML so you'll see both acronyms) so it is something to keep in mind if you are going down the Communications track as your primary goal.
 
 The first tier of communications training is called ICUT, or "Introductory Communications User Training." The NTIA requires that all members using radios meet that minimum level of training or be immediately supervised by a person meeting that minimum training.
+
+The link for that class is [here](https://capnhq.myabsorb.com/#/online-courses/927c8b77-5828-45d4-99c0-bd75d11e3322).
 
 It's divided into 3 sections:
 
