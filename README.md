@@ -84,12 +84,13 @@ Now with all of the above laid out, let's talk about Emergency Services Qualific
 
 The former primarily will affect your ability to promote within the organization and help to determine your suitability for leadership roles. The latter will affect your ability to deploy on missions. Many highly qualified members never complete the former while having served on hundreds of missions. That said, it is my belief that one should complete the rating regardless of choosing to promote as this is one of the few badges that cadets can earn as well as senior members in the organization, and completing it provides you the framework to help THEM complete it. As such this pamphlet will cover achieving both items through the Technician Rating for the Specialty Track and the basic Specialty Qualifications.
 
+Not all training is from CAP. We're going to discuss getting you set up with what you need from non-CAP trainins sources, then CAP training sources.
+
 ---
 
-And now, without further ado, let's dive into what you are probably actually here reading this document for: 
-# The checklists on how to become qualified as fast as possible while being as useful as possible on missions!
+# Training from FEMA
 
-The first thing to realize: Not all of the training you require is provided by CAP. In the aftermath of 9/11, the [Homeland Security Act of 2002](https://www.dhs.gov/sites/default/files/2023-11/03_0116_hr_5005_enr.pdf) required that ALL first responders, including volunteers, have a basic level of training that was the same across the entire nation. That training became known as the National Incident Management System (NIMS), and completing the appropriate NIMS training became known as being NIMS Compliant. This training is managed by the Federal Emergency Management Agency (FEMA.)
+In the aftermath of 9/11, the [Homeland Security Act of 2002](https://www.dhs.gov/sites/default/files/2023-11/03_0116_hr_5005_enr.pdf) required that ALL first responders, including volunteers, have a basic level of training that was the same across the entire nation. That training became known as the National Incident Management System (NIMS), and completing the appropriate NIMS training became known as being NIMS Compliant. This training is managed by the Federal Emergency Management Agency (FEMA.)
 
 This training is a combination of online and in-person training. The first bits of training we will worry about are online.
 
